@@ -25,7 +25,7 @@ Transaction Specifications:
 
 Learn More:
 Official forums: http://dopecoin.com/forums
-bitcointalk thread: https://bitcointalk.org/index.php?topic=209508.0
+bitcointalk thread: https://bitcointalk.org/index.php?topic=425366.0
 
-Copyright digitalcoin.co 2013-2014
+Copyright dopecoin.com 2013-2014
 

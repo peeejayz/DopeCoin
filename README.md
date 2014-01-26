@@ -1,4 +1,4 @@
-dopecoin V1 BETA
+DopeCoin V1 BETA
 
 Copyright (c) 2009-2012 Bitcoin Developers
 Copyright (c) 2011-2012 Litecoin Developers

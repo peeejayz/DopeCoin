@@ -1,4 +1,4 @@
-DopeCoin V1 BETA
+digitalcoin V1 BETA
 
 Copyright (c) 2009-2012 Bitcoin Developers
 Copyright (c) 2011-2012 Litecoin Developers
@@ -25,7 +25,7 @@ Transaction Specifications:
 
 Learn More:
 Official forums: http://dopecoin.com/forums
-bitcointalk thread: https://bitcointalk.org/index.php?topic=425366.0
+bitcointalk thread: https://bitcointalk.org/index.php?topic=209508.0
 
-Copyright dopecoin.com 2013-2014
+Copyright digitalcoin.co 2013-2014
 

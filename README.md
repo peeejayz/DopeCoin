@@ -10,8 +10,6 @@ the OpenSSL Toolkit (http://www.openssl.org/).  This product includes
 cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 What It Is:
--A digital currency
--A means to store value
 -A fast method to send and receive money
 -Transparent and open source
 -Anonymous
@@ -25,7 +23,7 @@ Transaction Specifications:
 
 Learn More:
 Official forums: http://dopecoin.com/forums
-bitcointalk thread: https://bitcointalk.org/index.php?topic=209508.0
+bitcointalk thread: https://bitcointalk.org/index.php?topic=425366
 
-Copyright digitalcoin.co 2013-2014
+Copyright DopeCoin 2013-2014
 

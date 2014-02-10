@@ -38,10 +38,11 @@ Boost          MIT-like license
 miniupnpc      New (3-clause) BSD license
 
 Versions used in this release:
-OpenSSL      1.0.1b
-Berkeley DB  4.8.30.NC
-Boost        1.47.0
-miniupnpc    1.6
+ GCC           4.8.2
+ OpenSSL       1.0.1e
+ Berkeley DB   4.8.30.NC
+ Boost         1.55
+ miniupnpc     1.8
 
 
 OpenSSL
